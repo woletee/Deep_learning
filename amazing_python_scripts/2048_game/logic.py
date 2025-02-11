@@ -12,6 +12,7 @@ def add_two(mat):
         r=random.randint(0,4)
         c=random.randint(0,4)
     mat[r]=2
+def get_next_state(mat)
 def get_current_state(mat):
     for i in range(4):
         for j in range(4):
